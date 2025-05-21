@@ -4,7 +4,7 @@
 <h3 align="center" style="color:#ffc107;">A passionate Flutter Developer from India</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="coder gif" width="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="coder gif" width="300"/>
 </p>
 
 <p align="center">
