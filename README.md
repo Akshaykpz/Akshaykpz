@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/@akshayk83326964" target="blank"><img src="https://img.shields.io/twitter/follow/@akshayk83326964?logo=twitter&style=for-the-badge" alt="@akshayk83326964" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I'm a passionate Flutter developer with over 1.5 years of experience building cross-platform mobile apps for Android and iOS. My strengths include building scalable apps using clean architecture (Bloc, Riverpod), integrating real-time data with Firebase and RESTful APIs, and working with features like payment gateways (Stripe, Razorpay), push notifications, and secure local storage. **Flutter**
 
-- 💬 Ask me about **flutter,dart**
+- 💬 **
 
 - 📫 How to reach me **akshaymayyannur@gmail.com**
 
