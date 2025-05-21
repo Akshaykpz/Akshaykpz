@@ -1,33 +1,81 @@
-<h1 align="center">Hi 👋, I'm AKSHAY KP</h1>
-<h3 align="center">A passionate Flutter Developer</h3>
-<img align="center" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<!-- GitHub Profile README -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaykpz&label=Profile%20views&color=0e75b6&style=flat" alt="akshaykpz" /> </p>
+<h1 align="center">Hi 👋, I'm <span style="color:#00C9A7;">Akshay KP</span></h1>
+<h3 align="center" style="color:#ffc107;">A passionate Flutter Developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaykpz" alt="akshaykpz" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@akshayk83326964" target="blank"><img src="https://img.shields.io/twitter/follow/@akshayk83326964?logo=twitter&style=for-the-badge" alt="@akshayk83326964" /></a> </p>
-
-- 🌱 I'm a passionate Flutter developer with over 1.5 years of experience building cross-platform mobile apps for Android and iOS. My strengths include building scalable apps using clean architecture (Bloc, Riverpod), integrating real-time data with Firebase and RESTful APIs, and working with features like payment gateways (Stripe, Razorpay), push notifications, and secure local storage. **Flutter**
-
-- 💬 **
-
-- 📫 How to reach me **akshaymayyannur@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@akshayk83326964" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@akshayk83326964" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akshay kp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay kp" height="30" width="40" /></a>
-<a href="https://instagram.com/akshay_hastha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshay_hastha" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="coder gif" width="300"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akshaykpz&label=Profile%20views&color=0e75b6&style=flat" alt="akshaykpz" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaykpz&show_icons=true&locale=en&layout=compact" alt="akshaykpz" /></p>
+<hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaykpz&show_icons=true&locale=en" alt="akshaykpz" /></p>
+<h3>💡 About Me</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykpz&" alt="akshaykpz" /></p>
+<ul>
+  <li>🔭 I’m currently working on <b>Flutter Apps</b> for Android & iOS</li>
+  <li>🌱 1.5+ years experience building cross-platform apps with <b>Bloc</b>, <b>Riverpod</b>, <b>Firebase</b></li>
+  <li>💳 Integrated payment gateways like <b>Stripe</b> & <b>Razorpay</b></li>
+  <li>🔔 Implemented push notifications, in-app purchases & secure local storage</li>
+  <li>📫 Reach me at <a href="mailto:akshaymayyannur@gmail.com">akshaymayyannur@gmail.com</a></li>
+</ul>
 
+<hr>
 
+<h3>🌐 Connect with me</h3>
+
+<p>
+  <a href="https://twitter.com/akshayk83326964" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/akshayk83326964?logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/akshay-kp" target="_blank">
+    <img src="https://img.shields.io/badge/-Akshay%20KP-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/akshay_hastha" target="_blank">
+    <img src="https://img.shields.io/badge/-@akshay_hastha-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+</p>
+
+<hr>
+
+<h3>🛠️ Skills & Tools</h3>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bloc-6A1B9A?style=for-the-badge&logo=bloc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Riverpod-009688?style=for-the-badge&logo=riverpod&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+<hr>
+
+<h3>📈 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshaykpz&show_icons=true&theme=tokyonight" alt="Akshay KP GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykpz&theme=tokyonight" alt="Akshay KP GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykpz&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=akshaykpz&theme=radical&row=1&margin-w=15&margin-h=15" alt="trophies" />
+  </a>
+</p>
+
+<hr>
+
+<h4 align="center">⭐️ Let's build beautiful apps together!</h4>
