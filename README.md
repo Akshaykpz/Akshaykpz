@@ -19,26 +19,19 @@
 - 🌱 1.5+ years experience building apps with **Bloc**, **Riverpod**, **Firebase**
 - 💳 Integrated payment gateways like **Stripe** & **Razorpay**
 - 🔔 Added push notifications, in-app purchases & secure local storage
-- 📫 Reach me at: **[akshaymayyannur@gmail.com](mailto:akshaymayyannur@gmail.com)**
+- 📫 Reach me at: [akshaymayyannur@gmail.com](mailto:akshaymayyannur@gmail.com)
 
 ---
 
 ### 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/akshaykpz/flutter_todo_app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshaykpz&repo=flutter_todo_app&theme=tokyonight" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/akshaykpz/food_delivery_ui">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshaykpz&repo=food_delivery_ui&theme=tokyonight" />
-      </a>
-    </td>
-  </tr>
-</table>
+Here are a few of my highlighted public repositories:
+
+- 📱 [**Flutter ToDo App**](https://github.com/akshaykpz/flutter_todo_app)  
+  A minimal, clean, and reactive ToDo app using **Riverpod**, **Firebase**, and animations.
+
+- 🍔 [**Food Delivery UI**](https://github.com/akshaykpz/food_delivery_ui)  
+  A sleek food ordering app UI built with **Flutter**, custom widgets, and clean architecture.
 
 ---
 
@@ -73,22 +66,6 @@
 
 ---
 
-### 🌐 Connect with Me
-
-<p>
-  <a href="https://twitter.com/akshayk83326964" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/akshayk83326964?logo=twitter&style=for-the-badge" />
-  </a>
-  <a href="https://linkedin.com/in/akshay-kp" target="_blank">
-    <img src="https://img.shields.io/badge/-Akshay%20KP-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/akshay_hastha" target="_blank">
-    <img src="https://img.shields.io/badge/-@akshay_hastha-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-</p>
-
----
-
 ### 🏆 GitHub Achievements
 
 <p align="center">
@@ -102,9 +79,23 @@
 ### 🔥 Contribution Graph
 
 <p align="center">
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshaykpz&theme=tokyo-night" />
+</p>
 
+---
+
+### 🌐 Connect with Me
+
+<p>
+  <a href="https://twitter.com/akshayk83326964" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/akshayk83326964?logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/akshay-kp" target="_blank">
+    <img src="https://img.shields.io/badge/-Akshay%20KP-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/akshay_hastha" target="_blank">
+    <img src="https://img.shields.io/badge/-@akshay_hastha-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
